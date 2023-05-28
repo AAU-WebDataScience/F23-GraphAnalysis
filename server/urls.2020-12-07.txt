@@ -1,0 +1,5 @@
+https://hobbitdata.informatik.uni-leipzig.de/COVID19DS/archive/version_2020-12-07/authors_sameAs.nt
+https://hobbitdata.informatik.uni-leipzig.de/COVID19DS/archive/version_2020-12-07/bibEntries_hasPublication.nt
+https://hobbitdata.informatik.uni-leipzig.de/COVID19DS/archive/version_2020-12-07/corona.ttl
+https://hobbitdata.informatik.uni-leipzig.de/COVID19DS/archive/version_2020-12-07/corona_entities.ttl
+https://hobbitdata.informatik.uni-leipzig.de/COVID19DS/archive/version_2020-12-07/publication_sameAs.nt
